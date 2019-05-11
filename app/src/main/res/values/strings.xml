@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reise</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">STATUS</string>
+    <string name="tab_text_2">CONNECT</string>
+    <string name="tab_text_3">LOCATION</string>
+</resources>
